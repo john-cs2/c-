@@ -1,0 +1,15 @@
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\bin\Debug\net9.0\proyecto-cshare.exe
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\bin\Debug\net9.0\proyecto-cshare.deps.json
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\bin\Debug\net9.0\proyecto-cshare.runtimeconfig.json
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\bin\Debug\net9.0\proyecto-cshare.dll
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\bin\Debug\net9.0\proyecto-cshare.pdb
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\proyecto-cshare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\proyecto-cshare.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\proyecto-cshare.AssemblyInfo.cs
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\proyecto-cshare.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\proyecto-cshare.sourcelink.json
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\proyecto-cshare.dll
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\refint\proyecto-cshare.dll
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\proyecto-cshare.pdb
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\proyecto-cshare.genruntimeconfig.cache
+C:\Users\Jhon\Documents\proyecto-cshare\proyecto-cshare\obj\Debug\net9.0\ref\proyecto-cshare.dll
